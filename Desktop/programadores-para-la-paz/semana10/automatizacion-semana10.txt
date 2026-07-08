@@ -1,0 +1,13 @@
+Evento que activa el flujo:
+Cuando un ciudadano registra un nuevo reporte.
+
+Mensaje que se enviaría:
+"Nuevo reporte recibido. Revisar el sistema."
+
+Información que no debe enviarse:
+- Nombres completos.
+- Cédulas.
+- Direcciones.
+- Teléfonos.
+- Contraseñas.
+- Datos personales sensibles.
